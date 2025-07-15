@@ -54,22 +54,6 @@
 
 ---
 
-## 🖼️ Screenshots
-
-| Dashboard | Bug List |
-|----------|-----------|
-| ![Dashboard](https://user-images.githubusercontent.com/72980929/179953685-f85a72b0-aa5b-4f07-ab85-0cd8c8289d8c.png) | ![Bug List](https://user-images.githubusercontent.com/72980929/179954701-d5a8cbd2-10f1-4456-8f6f-585306ec260e.png) |
-
-| Bug Form | Filter Bugs |
-|---------|-------------|
-| ![Bug Form](https://user-images.githubusercontent.com/72980929/179952270-116b897f-a5a6-496c-b21b-3f0d282ddf58.png) | ![Filter](https://user-images.githubusercontent.com/72980929/179952731-a008b18d-8a44-42a1-9d28-e1bd9534bcef.png) |
-
-| Authentication | Add Bugs |
-|----------------|----------|
-| ![Login](https://user-images.githubusercontent.com/72980929/179950656-fe00af08-5ab2-423d-aa03-e13a4c363f3d.png) | ![Add Bug](https://user-images.githubusercontent.com/72980929/179951234-f6254807-256f-406a-861b-1baed63abfc6.png) |
-
----
-
 # Clone the repo
 git clone https://github.com/yourusername/tracknest.git
 cd tracknest
