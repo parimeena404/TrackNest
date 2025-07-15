@@ -1,7 +1,7 @@
 import React, { useState, useContext, useEffect } from 'react';
 import AuthContext from '../../context/auth/authContext';
 import AlertContext from '../../context/alert/alertContext';
-import './Login.css';
+import './Login.css'
 
 const Login = (props) => {
   const alertContext = useContext(AlertContext);
@@ -50,9 +50,10 @@ const Login = (props) => {
 
   return (
     <div className="LoginBG">
+    
       <div className='form-container'>
         <h1>
-          Welcome to <span className='text-primary'>TrackNest</span>
+          Account <span className='text-primary'>Login</span>
         </h1>
         <form onSubmit={onSubmit}>
           <div className='form-group'>
@@ -82,7 +83,12 @@ const Login = (props) => {
           />
         </form>
       </div>
+     
     </div>
+
+    
+    
+    
   );
 };
 
